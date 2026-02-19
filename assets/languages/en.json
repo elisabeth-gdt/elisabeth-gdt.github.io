@@ -8,11 +8,14 @@
     "intro_3": "It's important to me to continuously grow both professionally and personally. I enjoy working in a team, supporting others whenever I can, and I value honest feedback.",
     "intro_4": "Outside of my studies, I'm involved in many creative activities — from model building and drawing to gaming. For me, experimenting and learning new things is simply part of who I am.",
     "intro_5": "I'm looking for a company where I can contribute long-term, take on responsibility, and grow together as part of a team.",
-
+    "more_info_title": "Want to know more?",
+    "more_info_subtitle": "Here you can get a closer look at my background and my work.",
+    "more_resume_link": "Resume – An overview of my journey and experiences so far.",
+    "more_projects_link": "Projects – A selection of university projects and what I learned from them.",
+    "more_skills_link": "Skills – My technical and creative competencies at one glance.",
 
     "nav_resume": "Resume",
     "nav_skills": "Skills",
     "nav_projects": "Projects",
-
     "footer_end": "Design & Development by Elisabeth Gehdt"
 }
