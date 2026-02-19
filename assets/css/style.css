@@ -1,12 +1,66 @@
+@font-face {
+    font-family: "UeberschriftFont";
+    src: url("../fonts/RozhaOne.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "TextFont";
+    src: url("../fonts/OutfitVariable.ttf") format("truetype");
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "UeberschriftFont", serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between; /* Name links, Nav rechts */
+    align-items: center;
+    padding: 1rem 2rem;
+}
+
+.header-name {
+    font-family: "UeberschriftFont", serif;
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: inherit;
+}
+
+header nav {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+header nav a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.lang-switcher {
+    display: flex;
+    flex-direction: column; /* Buttons übereinander */
+    gap: 0.2rem;
+}
+
+.lang-switcher button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-family: "TextFont", sans-serif;
+}
+
 body {
     display: flex;
     flex-direction: column;
-    min-height: 100vh; /* volle Bildschirmhöhe */
+    min-height: 100vh;
     margin: 0;
+    background-color: #F9F4ED;
+    font-family: "TextFont", sans-serif;
 }
 
 main {
-    flex: 1; /* nimmt den ganzen verfügbaren Platz ein */
+    flex: 1;
 }
 
 footer {

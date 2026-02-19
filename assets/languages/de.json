@@ -1,4 +1,8 @@
 {
     "welcome": "Willkommen auf meinem Portfolio!",
-    "intro": "Hier ein kurzer Überblick wer ich bin"
+    "intro": "Hier ein kurzer Überblick wer ich bin",
+
+    "nav_resume": "Lebenslauf",
+    "nav_skills": "Skills",
+    "nav_projects": "Projekte"
 }
