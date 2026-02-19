@@ -102,6 +102,47 @@ header nav a {
     /*color: #F9F4ED;*/
 }
 
+.more-info {
+    display: flex;
+    flex-direction: column; /* ← untereinander statt nebeneinander */
+    gap: 1rem;
+    max-width: 50rem;
+    margin: 4rem auto;
+    padding: 0 2rem;
+}
+
+.more-info-title {
+    margin: 0;
+    font-size: 2rem;
+}
+
+.more-info-subtitle {
+    margin: 0;
+    font-size: 1.1rem;
+}
+
+.more-info-links {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+.more-info-item a {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    text-decoration: none;
+    color: #5B191F;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.more-info-item a:hover {
+    text-decoration: underline;
+}
+
+
 body {
     display: flex;
     flex-direction: column;
