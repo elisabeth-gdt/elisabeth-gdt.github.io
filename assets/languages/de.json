@@ -1,6 +1,13 @@
 {
-    "welcome": "Willkommen auf meinem Portfolio!",
-    "intro": "Hier ein kurzer Überblick wer ich bin",
+    "hero_line1": "Hallo,",
+    "hero_line2": "ich bin",
+    "hero_line3": "Elisabeth!",
+    "intro": "Hier ein kurzer Überblick wer ich bin.Lorem ipsumbhsfbhscguzferzgnxuevcuzrsvuhxembzuyfbmreg uxzefgngexnfuzerw zgfxeanfzgerwzgfnxi ziewg fztxw gztvgw xiuzxgfwuzngfxruzewc gverwuxzeng uz cwgzurg ",
+    "intro_1": "Hi, ich bin Elisabeth, 22 Jahre alt und studiere Medieninformatik im 5. Semester.",
+    "intro_2": "Mich begeistert die Verbindung aus Technik und Kreativität – also Dinge nicht nur zum Laufen zu bringen, sondern sie auch sinnvoll und durchdacht zu gestalten. Wenn ich an einem Projekt arbeite, bin ich mit vollem Einsatz dabei. Ich denke mich schnell in neue Themen ein, übernehme Verantwortung und lasse mich von größeren Aufgaben eher motivieren als abschrecken.",
+    "intro_3": "Mir ist wichtig, mich fachlich und persönlich weiterzuentwickeln. Ich arbeite gerne im Team, helfe, wo ich kann, und schätze ehrliches Feedback.",
+    "intro_4": "Auch außerhalb des Studiums bin ich viel kreativ unterwegs – von Modellbau über Zeichnen bis hin zu Gaming. Für mich gehört Ausprobieren und Neues lernen einfach dazu.",
+    "intro_5": "Ich suche ein Unternehmen, bei dem ich langfristig mitwirken, Verantwortung übernehmen und gemeinsam wachsen kann.",
 
     "nav_resume": "Lebenslauf",
     "nav_skills": "Skills",

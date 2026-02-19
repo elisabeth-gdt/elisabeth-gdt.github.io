@@ -1,6 +1,14 @@
 {
-    "welcome": "Welcome to my Portfolio!",
-    "intro": "Here's a short overview of who I am",
+    "hero_line1": "Hello,",
+    "hero_line2": "I am",
+    "hero_line3": "Elisabeth!",
+    "intro": "Here's a short overview of who I am.",
+    "intro_1": "Hi, I'm Elisabeth, 22 years old, and currently studying Media Informatics in my fifth semester.",
+    "intro_2": "I'm passionate about combining technology and creativity — not just making things work, but designing them in a meaningful and thoughtful way. When I work on a project, I give it my full commitment. I quickly familiarize myself with new topics, take on responsibility, and see larger challenges as motivation rather than something intimidating.",
+    "intro_3": "It's important to me to continuously grow both professionally and personally. I enjoy working in a team, supporting others whenever I can, and I value honest feedback.",
+    "intro_4": "Outside of my studies, I'm involved in many creative activities — from model building and drawing to gaming. For me, experimenting and learning new things is simply part of who I am.",
+    "intro_5": "I'm looking for a company where I can contribute long-term, take on responsibility, and grow together as part of a team.",
+
 
     "nav_resume": "Resume",
     "nav_skills": "Skills",
