@@ -22,9 +22,13 @@ header {
 
 .header-name {
     font-family: "UeberschriftFont", serif;
-    font-size: 1.5rem;
+    font-size: 2rem;
     text-decoration: none;
-    color: inherit;
+    color: #5B191F;
+}
+
+.header-name:hover{
+    text-decoration: underline;
 }
 
 header nav {
@@ -35,12 +39,21 @@ header nav {
 
 header nav a {
     text-decoration: none;
-    color: inherit;
+    color: #5B191F;
+    padding: 0.4rem 0.8rem;         /* ← Platz für den Hintergrund */
+    border-radius: 0.3rem;          /* ← leicht abgerundete Ecken */
+    transition: background-color 0.2s, color 0.2s, font-size 0.2s; /* ← smooth */
+}
+
+header nav a:hover {
+    background-color: #5B191F;      /* ← roter Hintergrund */
+    color: #F9F4ED;                 /* ← weiße Schrift */
+    font-size: 1.1rem;              /* ← etwas größer */
 }
 
 .lang-switcher {
     display: flex;
-    flex-direction: column; /* Buttons übereinander */
+    flex-direction: column; /* ← übereinander */
     gap: 0.2rem;
 }
 
@@ -48,7 +61,17 @@ header nav a {
     background: none;
     border: none;
     cursor: pointer;
+    color: #5B191F;
     font-family: "TextFont", sans-serif;
+    padding: 0.4rem 0.8rem;
+    border-radius: 0.3rem;
+    transition: background-color 0.2s, color 0.2s, font-size 0.2s;
+}
+
+.lang-switcher button:hover {
+    background-color: #5B191F;
+    color: #F9F4ED;
+    font-size: 1.1rem;
 }
 /*---------------------------index---------------------------------*/
 .hero {
@@ -77,7 +100,7 @@ header nav a {
 
 .profile-pic {
     width: 100%;
-    max-width: 18rem;
+    max-width: 17rem;
     aspect-ratio: 3 / 4;
     object-fit: cover;
     border-radius: 50% 50% 0 0 / 35% 35% 0 0;
