@@ -713,3 +713,14 @@ footer {
     height: 1.5rem;
     flex-shrink: 0;
 }
+
+/* Storyboard Carousel */
+.carousel-storyboard .carousel-item img {
+    object-fit: contain;
+    background: #f0f0f0;
+}
+
+/* Normales Carousel (z.B. Mi'lefiz) */
+.carousel-normal .carousel-item img {
+    object-fit: cover;
+}
