@@ -207,5 +207,24 @@
     "yd_learning_2": "Knowledge of creating wireframes and user-oriented site structure was deepened",
     "yd_learning_3": "Confidence in working with style guides and design systems was gained",
     "yd_learning_4": "Experience in creating interactive prototypes in Figma was gathered",
-    "yd_learning_5": "The ability to work as a team in the design process was further developed"
+    "yd_learning_5": "The ability to work as a team in the design process was further developed",
+
+    "bkl_modul": "Introduction to Design (Fundamentals of Media Design)",
+    "bkl_descr_1": "The objective of this project was the design development of a booklet in which various design tasks are brought together. Over several weeks, worksheets on different design topics were worked on, which dealt with fundamental design principles.",
+    "bkl_descr_2": "The individual tasks were not only to be understood theoretically but also applied practically and worked out design-wise. The conscious application of design fundamentals such as layout, typography, color theory, and composition was at the forefront.",
+    "bkl_descr_3": "Finally, all processed content was to be brought together in a consistently designed booklet and prepared for printing, resulting in a physical end product.",
+    "bkl_pdf": "The finished booklet",
+    "bkl_tasks_title": "My tasks:",
+    "bkl_tasks_1": "Design-wise processing of weekly worksheets on various design topics",
+    "bkl_tasks_2": "Practical application of design fundamentals such as typography, layout, color theory, and composition",
+    "bkl_tasks_3": "Structured wireframes in Figma were created to define page layout and user navigation",
+    "bkl_tasks_4": "A consistent style guide was developed to establish design guidelines and UI rules",
+    "bkl_tasks_5": "An interactive clickable prototype in Figma was implemented to realistically simulate user interaction",
+    "bkl_tasks_6": "Documentation of the project in the form of a custom-designed booklet",
+    "bkl_learning_title": "What I learned:",
+    "bkl_learning_1": "Understanding of fundamental design principles was built",
+    "bkl_learning_2": "Confidence in handling typography, layout, and color design was developed",
+    "bkl_learning_3": "A sense for visual consistency and design systematicity was strengthened",
+    "bkl_learning_4": "Knowledge in print preparation was expanded",
+    "bkl_learning_5": "The ability to bring individual tasks together into a coherent overall project was fostered"
 }

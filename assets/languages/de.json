@@ -199,5 +199,24 @@
     "yd_learning_2": "Kenntnisse in der Erstellung von Wireframes und nutzerorientierter Seitenstruktur wurden vertieft",
     "yd_learning_3": "Sicherheit im Arbeiten mit Styleguides und Designsystemen wurde gewonnen",
     "yd_learning_4": "Erfahrung in der Erstellung interaktiver Prototypen in Figma wurde gesammelt",
-    "yd_learning_5": "Die Fähigkeit zur Teamarbeit im Designprozess wurde weiterentwickelt"
+    "yd_learning_5": "Die Fähigkeit zur Teamarbeit im Designprozess wurde weiterentwickelt",
+
+    "bkl_modul": "Einführung in die Gestaltung (Grundlagen Mediendesign)",
+    "bkl_descr_1": "Ziel dieses Projekts war die gestalterische Entwicklung eines Booklets, in dem verschiedene Designaufgaben zusammengeführt werden. Über mehrere Wochen hinweg wurden Arbeitsblätter zu unterschiedlichen Designthemen bearbeitet, die sich mit grundlegenden Gestaltungsprinzipien auseinandersetzten.",
+    "bkl_descr_2": "Die einzelnen Aufgaben sollten nicht nur theoretisch verstanden, sondern praktisch angewendet und gestalterisch ausgearbeitet werden. Dabei stand die bewusste Anwendung von Designgrundlagen wie Layout, Typografie, Farbwirkung und Komposition im Vordergrund.",
+    "bkl_descr_3": "Abschließend sollten alle bearbeiteten Inhalte in einem konsistent gestalteten Booklet zusammengeführt und für den Druck vorbereitet werden, sodass ein physisches Endprodukt entstand.",
+    "bkl_pdf": "Das fertige Booklet",
+    "bkl_tasks_title": "Meine Aufgaben:",
+    "bkl_tasks_1": "Wöchentliche Arbeitsblätter zu verschiedenen Designthemen gestalterisch bearbeiten",
+    "bkl_tasks_2": "Gestaltungsgrundlagen wie Typografie, Layout, Farbwirkung und Komposition praktisch anwenden",
+    "bkl_tasks_3": "Strukturierte Wireframes in Figma wurden erstellt, um Seitenaufbau und Nutzerführung zu definieren",
+    "bkl_tasks_4": "Ein konsistenter Styleguide zur Festlegung von Designrichtlinien und UI-Regeln wurde ausgearbeitet",
+    "bkl_tasks_5": "Ein interaktiver Klickdummy in Figma wurde umgesetzt, um die Benutzerinteraktion realitätsnah zu simulieren",
+    "bkl_tasks_6": "Dokumentation des Projektes in Form eines passend gestalteten Booklet",
+    "bkl_learning_title": "Was ich gelernt habe:",
+    "bkl_learning_1": "Verständnis für grundlegende Designprinzipien aufbauen",
+    "bkl_learning_2": "Sicherheit im Umgang mit Typografie, Layout und Farbgestaltung entwickeln",
+    "bkl_learning_3": "Gespür für visuelle Konsistenz und gestalterische Systematik stärken",
+    "bkl_learning_4": "Kenntnisse in der Druckvorbereitung erweitern",
+    "bkl_learning_5": "Fähigkeit fördern, einzelne Aufgaben zu einem kohärenten Gesamtprojekt zu verbinden"
 }
