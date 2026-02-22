@@ -158,7 +158,7 @@
     "melody_modul": "Introduction to Interactive Applications",
     "melody_descr_1": "The objective of this project was to develop an interactive JavaFX application as a team. The application was to be structured according to the MVC principle and implement a self-designed game idea.",
     "melody_descr_2": "In addition to programming, the project deepened knowledge of structuring JavaFX applications, including the integration of music and sound effects that were thematically and functionally integrated into the game.",
-    "melody_descr_3": "The project was implemented as group work, with emphasis on collaboration, task coordination, and the exchange of ideas during development.",
+    "melody_descr_3": "The project was implemented as group work with Leon Schäfer and Marlon Stamm, with emphasis on collaboration, task coordination, and the exchange of ideas during development.",
     "melody_tasks_title": "My tasks:",
     "melody_tasks_1": "Development of the user interface and scene logic with JavaFX (UI layouts, animations, controls)",
     "melody_tasks_2": "Implementation of the MVC pattern, including separation of Model, View, and Controller",
@@ -172,5 +172,22 @@
     "melody_learning_3": "Implemented integration of music and sound effects and learned how to functionally and thematically embed audiovisual elements",
     "melody_learning_4": "Developed game mechanics and event logic, gaining experience in controlling interactions and workflows",
     "melody_learning_5": "Practiced teamwork and improved the ability to coordinate, distribute tasks, and collaborate in a group project",
-    "melody_learning_6": "First experience working collaboratively in a Git repository"
-    }
+    "melody_learning_6": "First experience working collaboratively in a Git repository",
+
+    "mp3_modul": "Introduction to Interactive Applications",
+    "mp3_title": "MP3 Player",
+    "mp3_descr_1": "The objective of this project was to implement an MP3 player as an introduction to JavaFX development. The focus was on implementing fundamental music player functions such as play, pause, shuffle, repeat, volume control, progress display, and playlist view.",
+    "mp3_descr_2": "The application was to be structured according to the MVC principle to ensure a clear separation between user interface, logic, and data storage. Additionally, visual elements such as album artwork and progress bars were to be integrated into the interface.",
+    "mp3_descr_3": "The project was created in collaboration with Leon Schäfer.",
+    "mp3_tasks_title": "My tasks:",
+    "mp3_tasks_1": "Development of the user interface and scene logic with JavaFX (UI layouts, animations, controls)",
+    "mp3_tasks_2": "Implementation of the MVC pattern, including separation of Model, View, and Controller",
+    "mp3_tasks_3": "Integration and control of music and sound effects",
+    "mp3_tasks_4": "Implementation of MP3 logic (pause, seek, playlist display)",
+    "mp3_tasks_5": "Development of an attractive user interface",
+    "mp3_learning_title": "What I learned:",
+    "mp3_learning_1": "First knowledge in JavaFX",
+    "mp3_learning_2": "First practical application of MVC architecture",
+    "mp3_learning_3": "Integration of music and sound effects in an interactive system",
+    "mp3_learning_4": "First experience working collaboratively in a Git repository"
+}
