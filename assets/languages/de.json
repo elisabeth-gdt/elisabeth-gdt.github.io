@@ -147,5 +147,24 @@
     "doener_learning_2": "Umsetzung und Nutzung von REST-APIs für Frontend-Backend-Kommunikation",
     "doener_learning_3": "Datenmodellierung für Döner, Zutaten, Bestände und Ausleihlogik",
     "doener_learning_4": "Einsatz von Gradle für Build, Projektverwaltung und Serverstart",
-    "doener_learning_5": "Implementierung von Login- und Benutzerverwaltungsfunktionen"
+    "doener_learning_5": "Implementierung von Login- und Benutzerverwaltungsfunktionen",
+
+    "melody_modul": "Einführung in interaktive Anwendungen",
+    "melody_descr_1": "Ziel dieses Projekts war die Entwicklung einer interaktiven JavaFX-Anwendung im Team. Die Anwendung sollte nach dem MVC-Prinzip aufgebaut sein und eine selbst entworfene Spielidee umsetzen.",
+    "melody_descr_2": "Im Projekt wurden neben der Programmierung insbesondere Kenntnisse in der Strukturierung von JavaFX-Anwendungen vertieft, inklusive der Integration von Musik und Soundeffekten, die thematisch und funktional ins Spiel eingebunden wurden.",
+    "melody_descr_3": "Das Projekt wurde als Gruppenarbeit umgesetzt, wodurch die Zusammenarbeit, Aufgabenkoordination und der Austausch von Ideen während der Entwicklung im Vordergrund standen.",
+    "melody_tasks_title": "Meine Aufgaben:",
+    "melody_tasks_1": "Entwicklung der Benutzeroberfläche und Szenenlogik mit JavaFX (UI-Layouts, Animationen, Steuerung)",
+    "melody_tasks_2": "Umsetzung des MVC-Musters, inklusive Trennung von Model, View und Controller",
+    "melody_tasks_3": "Integration und Steuerung von Musik und Soundeffekten im Spielkontext",
+    "melody_tasks_4": "Implementierung der Spielmechanik und Interaktivität (Ereignisbehandlung, Spielersteuerung)",
+    "melody_tasks_5": "Zusammenarbeit im Team bei der Planung, Abstimmung und Entwicklung der Gesamtanwendung",
+    "melody_tasks_6": "Erstellung von passenden Assets",
+    "melody_learning_title": "Was ich gelernt habe:",
+    "melody_learning_1": "JavaFX-Kenntnisse vertieft, insbesondere im Aufbau interaktiver Benutzeroberflächen und Szenensteuerung",
+    "melody_learning_2": "Die praktische Anwendung der MVC-Architektur und das Verständnis für die saubere Trennung von Model, View und Controller gestärkt",
+    "melody_learning_3": "Integration von Musik und Soundeffekten umgesetzt und gelernt, audiovisuelle Elemente funktional und thematisch einzubinden",
+    "melody_learning_4": "Spielmechanik und Event-Logik entwickelt und dabei Erfahrung in der Steuerung von Interaktionen und Abläufen gesammelt",
+    "melody_learning_5": "Teamarbeit erprobt und die Fähigkeit zur Koordination, Aufgabenverteilung und Zusammenarbeit in einem Gruppenprojekt verbessert",
+    "melody_learning_6": "Erste Erfahrung mit der gemeinsamen Arbeit in einem Git-Repository"
 }
